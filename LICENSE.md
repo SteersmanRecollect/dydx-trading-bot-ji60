@@ -1,4 +1,4 @@
-# 
+# top sushiswap trading bot Algorithm | sniper-trades + slippage-control is the best sushiswap trading bot, featuring sniper-trades and slippage-control. Smart, fast, and optimized
 
 
 
